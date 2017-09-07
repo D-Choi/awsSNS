@@ -1,0 +1,2 @@
+# awsSNS
+aws sns
