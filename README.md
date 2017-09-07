@@ -1,2 +1,0 @@
-# awsSNS
-aws sns
